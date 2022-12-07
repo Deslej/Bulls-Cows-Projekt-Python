@@ -1,0 +1,10 @@
+Data:2022-12-07 01:25:51.661115,cows:0,bulls:3,proby10
+Data:2022-12-07 01:27:01.661580,cows:0,bulls:4,proby6
+Data:2022-12-07 01:28:08.157023,cows:0,bulls:4,proby5
+Data:2022-12-07 01:29:44.230432,cows:0,bulls:4,proby3
+Data:2022-12-07 01:30:15.237859,cows:0,bulls:4,proby3
+Data:2022-12-07 01:30:33.573985,cows:0,bulls:4,proby8
+Data:2022-12-07 01:31:42.325714,cows:0,bulls:4,proby7
+Data:2022-12-07 01:32:15.517376,cows:0,bulls:5,proby8
+Data:2022-12-07 01:46:01.050354,cows:1,bulls:0,proby0
+Data:2022-12-07 15:02:17.763393,cows:0,bulls:5,proby4
